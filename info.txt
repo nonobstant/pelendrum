@@ -1,0 +1,6 @@
+DEMO
+basic.frag -- code GLSL le plus simple, colorisation des pixels
+veda.frag -- Image Editing glitch effect, edit "image1" "PATH" pour changer l'image
+audio.frag -- demo du rendu avec l'audio (mircophone)
+eye.frag -- rendu d'un Shader plus complexe
+midi.frag -- rendu avec clavier
