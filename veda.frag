@@ -1,7 +1,7 @@
 /*{
   "IMPORTED": {
     "image1": {
-      "PATH": "2.png",
+      "PATH": "font.png",
     },
     "image2": {
       "PATH": "3.png",
